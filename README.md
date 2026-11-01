@@ -1,15 +1,31 @@
-# COS 201 - Week 2 Practical
 
-## Assignment
-Development Environment and First Java Program
+## Student Name: OKOYE ARINZE
+## Matric No: 25/16122
+## Level: 200
+## Dept: Computer Science
 
-## Program
-FirstProgram.java
+# COS 201 - Week 3 Practical
+
+## Course
+Computer Programming I
+
+## Topics
+- Variables
+- Data Types
+- Expressions
+- Input and Output
+
+## Programs
+1. SimpleCalculator.java
+2. AverageCalculator.java
+3. ItemCost.java
 
 ## How to Run
 
 Compile:
-javac FirstProgram.java
+javac SimpleCalculator.java
 
 Run:
-java FirstProgram
+java SimpleCalculator
+
+Repeat the process for the other programs.
